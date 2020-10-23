@@ -12,8 +12,7 @@ A simple web application that displays pokemon data using pokemon API
 - jQuery Modal
 - Pokemon API
 
-## Screenshots
-![wireframe](./imgs/nameofyourfile.png)
+
 
 ## Getting Started
 [Click Here](https://ktorres1393.github.io/PokeGallery/) to see the deployed app!
